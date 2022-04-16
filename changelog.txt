@@ -1,4 +1,7 @@
 2022.04.16:
+* changed: `README.md` readme update
+
+2022.04.16:
 * new: .github/workflows: `andry81-devops.*.yml`, `github-action-extensions.*.yml` workflow scripts
 
 2022.04.16:
