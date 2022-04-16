@@ -1,0 +1,4 @@
+2022.04.16:
+* new: `README.md` readme file
+* new: `changelog.txt` changelog file
+* changed: .github/workflows/*.yml: workflow scripts moved from `andry81/andry81` repo
