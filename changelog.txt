@@ -1,4 +1,7 @@
 2022.04.16:
+* new: .github/workflows/github-accum-stats.*.yml: workflow scripts moved from `andry81-devops/github-accum-stats` repo
+
+2022.04.16:
 * new: `README.md` readme file
 * new: `changelog.txt` changelog file
-* changed: .github/workflows/*.yml: workflow scripts moved from `andry81/andry81` repo
+* new: .github/workflows/*.yml: workflow scripts moved from `andry81/andry81` repo
