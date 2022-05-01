@@ -1,3 +1,7 @@
+2022.05.01:
+* fixed: .github/workflows/andry81-devops.accum-gh-view-stats.yml: execution fixup
+* new: .github/workflows: `gh-action--accum-content.*.yml` workflow scripts
+
 2022.04.16:
 * new: .github/workflows: `accum-content.*.yml` workflow scripts
 
