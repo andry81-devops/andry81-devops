@@ -1,3 +1,7 @@
+2022.05.04:
+* new: .github/workflows: `andry81-devops.accum-content.yml`, `accum-content.accum-content.yml` workflow scripts to accumulate content for `andry81-devops`, `accum-content` repositories
+* changed: `README.md` replace links by content cache links, removed `seeyoufarm` hits counter as not actual anymore
+
 2022.05.01:
 * fixed: .github/workflows/andry81-devops.accum-gh-view-stats.yml: execution fixup
 * new: .github/workflows: `gh-action--accum-content.*.yml` workflow scripts
