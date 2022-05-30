@@ -1,3 +1,6 @@
+2022.05.31:
+* changed: .github/workflows/*.accum-gh-*-stats.yml: enable last changed date offset in the commit message (ENABLE_COMMIT_MESSAGE_DATE_TIME_WITH_LAST_CHANGED_DATE_OFFSET=1)
+
 2022.05.12:
 * new: .github/workflows/*.accum-content.yml: added `no_skip_unexpired_entries` workflow dispatch input parameter
 
